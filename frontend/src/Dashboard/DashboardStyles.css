@@ -1,0 +1,31 @@
+/* src/components/Dashboard/DashboardStyles.css */
+
+.dashboard {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  margin-top: 20px;
+}
+
+.job-list {
+  list-style: none;
+  padding: 0;
+}
+
+.job-list li {
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+
+.job-list li:last-child {
+  border-bottom: none;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  color: #555;
+}
