@@ -1,4 +1,4 @@
-# Decentralized-JobMarket
+# Decentralized Web3 based JobMarket
 Problem Statement : Develop a blockchain-based job marketplace that connects freelancers with clients directly, reducing fees and ensuring secure payments through smart contracts.
 
 ## Solution Approach :
