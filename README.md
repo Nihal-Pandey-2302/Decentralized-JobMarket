@@ -38,6 +38,45 @@ Average : 1.178 USD
 Our Solution (Polygon) Transactions: 
 Average : 0.03 USD
 
+## Installation and Running Guidelines
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) and npm
+- [MetaMask](https://metamask.io/) browser extension for wallet integration
+- Access to the relevant testnet (e.g., Polygon Testnet) and testnet funds for testing transactions
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/Decentralized-JobMarket.git
+   cd Decentralized-JobMarket
+
+### Install Dependencies
+
+1. **Install Dependencies:**
+   ```bash
+   npm install
+
+Configure Environment:
+Rename .env.example to .env and update it with:
+
+Your project’s contract address
+Testnet details
+Private key (where required) for deployment
+Open hardhat.config.js (or hardhat.js) and add your private key in the designated sections to ensure secure configuration for the desired network (e.g., Polygon or Ethereum testnet).
+
+### Running the Project
+**Run the Local Development Server:**
+
+``` bash
+npm start
+```
+The application should now be running at http://localhost:3000.
+
+
+
+
 
 ### References used:
 
